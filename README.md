@@ -45,6 +45,6 @@
 
 ---
 
-Deployment: 
+Deployment: https://donglee0415.github.io/workholic-planner/
 
  
