@@ -2,7 +2,7 @@
 
 ## Description
  
-* This APP for Wroker who need quick memo during work
+* This APP for Worker who need quick memo during work
 
 * Add and delete your plan for your future manage
 
@@ -47,3 +47,4 @@
 
 Deployment: 
 
+ 
